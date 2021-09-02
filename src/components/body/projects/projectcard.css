@@ -27,7 +27,7 @@
 
 .tag{
     padding: 4px 8px;
-    background-color: aquamarine;
+    background-color: #ffb9b9;
     border-radius: 4px;
     margin-right: 6px;
     margin-bottom: 4px;
@@ -47,7 +47,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aquamarine;
+    background-color: #ff6060;
     width: max-content;
     padding: 4px 8px;
     border-radius: 4px;

@@ -1,6 +1,6 @@
 .work-card{
     padding: 8px;
-    width: 45%;
+    width: 100%;
     margin-top: 16px;
     display: flex;
     justify-content: space-between;
@@ -20,6 +20,14 @@
 
 .work-dates{
     color: gray;
+}
+
+.company-name{
+    font-size: 1.2rem;
+}
+
+.designation-name{
+    font-weight: 600;
 }
 
 .work-desc{

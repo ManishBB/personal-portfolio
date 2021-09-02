@@ -12,7 +12,7 @@ function About() {
                     <br/> I love experimenting with the Web.
                 </div>
                 <div className="about-photo">
-                    <img src={require('../../../assets/coding.png').default} className="picture"></img>
+                    <img src={require('../../../assets/programmer.png').default} alt="Illustration" className="picture"></img>
                 </div>
             </div>
             
