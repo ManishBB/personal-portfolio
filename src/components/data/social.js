@@ -1,32 +1,32 @@
 export const socialData = [
     {
         platform : "Instagram",
-        link : "www.instagram.com/desireddreamer",
+        link : "https://www.instagram.com/desireddreamer/",
         icon : require("../../assets/instagram.png").default,
     },
 
     {
         platform : "Facebook",
-        link : "www.instagram.com/desireddreamer",
+        link : "https://www.facebook.com/mbb7224/",
         icon : require("../../assets/facebook.png").default,
     },
 
     {
 
         platform : "LinkedIn",
-        link : "www.instagram.com/desireddreamer",
+        link : "https://www.linkedin.com/in/manishbhamare7224/",
         icon : require("../../assets/linkedin.png").default,
     },
 
     {
         platform : "GitHub",
-        link : "www.instagram.com/desireddreamer",
+        link : "https://github.com/ManishBB",
         icon : require("../../assets/github.png").default,
     },
 
     {
         platform : "Twitter",
-        link : "www.instagram.com/desireddreamer",
+        link : "https://twitter.com/MrFictionCoder",
         icon : require("../../assets/twitter.png").default,
     },
 ];
