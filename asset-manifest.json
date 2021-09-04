@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.087f8d0c.chunk.css",
-    "main.js": "/personal-portfolio/static/js/main.10b3c5e2.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.10b3c5e2.chunk.js.map",
-    "runtime-main.js": "/personal-portfolio/static/js/runtime-main.bec0f0b4.js",
-    "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.bec0f0b4.js.map",
-    "static/js/2.4b9c1582.chunk.js": "/personal-portfolio/static/js/2.4b9c1582.chunk.js",
-    "static/js/2.4b9c1582.chunk.js.map": "/personal-portfolio/static/js/2.4b9c1582.chunk.js.map",
-    "static/js/3.afed68dc.chunk.js": "/personal-portfolio/static/js/3.afed68dc.chunk.js",
-    "static/js/3.afed68dc.chunk.js.map": "/personal-portfolio/static/js/3.afed68dc.chunk.js.map",
-    "index.html": "/personal-portfolio/index.html",
-    "static/css/main.087f8d0c.chunk.css.map": "/personal-portfolio/static/css/main.087f8d0c.chunk.css.map",
-    "static/js/2.4b9c1582.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.4b9c1582.chunk.js.LICENSE.txt",
-    "static/media/Manish-Resume.pdf": "/personal-portfolio/static/media/Manish-Resume.38dee062.pdf",
-    "static/media/coding.png": "/personal-portfolio/static/media/coding.29131d36.png",
-    "static/media/instagram.png": "/personal-portfolio/static/media/instagram.baf231c8.png"
+    "main.css": "/static/css/main.eccc7aac.chunk.css",
+    "main.js": "/static/js/main.2ad49b01.chunk.js",
+    "main.js.map": "/static/js/main.2ad49b01.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.33a5d891.js",
+    "runtime-main.js.map": "/static/js/runtime-main.33a5d891.js.map",
+    "static/js/2.3cbef6d2.chunk.js": "/static/js/2.3cbef6d2.chunk.js",
+    "static/js/2.3cbef6d2.chunk.js.map": "/static/js/2.3cbef6d2.chunk.js.map",
+    "static/js/3.df35672b.chunk.js": "/static/js/3.df35672b.chunk.js",
+    "static/js/3.df35672b.chunk.js.map": "/static/js/3.df35672b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.eccc7aac.chunk.css.map": "/static/css/main.eccc7aac.chunk.css.map",
+    "static/js/2.3cbef6d2.chunk.js.LICENSE.txt": "/static/js/2.3cbef6d2.chunk.js.LICENSE.txt",
+    "static/media/Manish-Resume.pdf": "/static/media/Manish-Resume.38dee062.pdf",
+    "static/media/coding.png": "/static/media/coding.29131d36.png",
+    "static/media/foodillustration.png": "/static/media/foodillustration.99a39f49.png",
+    "static/media/instagram.png": "/static/media/instagram.baf231c8.png",
+    "static/media/newsillustration.png": "/static/media/newsillustration.afd9760a.png",
+    "static/media/sparkfoundation.png": "/static/media/sparkfoundation.cbae0e84.png",
+    "static/media/textillustration.png": "/static/media/textillustration.19d83b63.png",
+    "static/media/wktechsys.png": "/static/media/wktechsys.f6fd3b2d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bec0f0b4.js",
-    "static/js/2.4b9c1582.chunk.js",
-    "static/css/main.087f8d0c.chunk.css",
-    "static/js/main.10b3c5e2.chunk.js"
+    "static/js/runtime-main.33a5d891.js",
+    "static/js/2.3cbef6d2.chunk.js",
+    "static/css/main.eccc7aac.chunk.css",
+    "static/js/main.2ad49b01.chunk.js"
   ]
 }
